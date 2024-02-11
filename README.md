@@ -1,1 +1,1 @@
-# API de leilão realizada na NLW da Rocketseat
+# API de leilão realizada na NLW
